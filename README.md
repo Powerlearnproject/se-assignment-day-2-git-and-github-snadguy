@@ -76,3 +76,6 @@ Strategy: Follow best practices for writing commit messages. Use clear, concise 
 Branch Management:
 Pitfall: Mismanaging branches can lead to a cluttered and confusing repository.
 Strategy: Adopt a branching strategy like Git Flow or GitHub Flow. Regularly clean up stale branches and ensure that feature branches are merged back into the main branch promptly.
+Pull Request Reviews:
+Pitfall: Inefficient or inconsistent pull request reviews can slow down the development process.
+Strategy: Establish clear guidelines for code reviews. Encourage timely reviews and constructive feedback. Use GitHub’s review tools to comment on specific lines of code and suggest changes.
